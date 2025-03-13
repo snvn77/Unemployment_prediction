@@ -1,0 +1,51 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+env/
+venv/
+*.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore large dataset files (Keep a small sample if needed)
+data/*.csv
+data/*.xlsx
+data/*.json
+data/*.parquet
+data/*.h5
+
+# Ignore raw dataset files (already stored in data/raw)
+data/Raw\ Datasets/
+data/Raw\ Datasets/*
+
+# Ignore logs and runtime files
+logs/
+*.log
+*.out
+*.err
+
+# Ignore model weights and large files
+models/
+*.h5
+*.pth
+*.pt
+*.joblib
+*.pkl
+
+# Ignore VS Code & JetBrains IDE config files
+.vscode/
+.idea/
+
+# Ignore TensorFlow and PyTorch logs
+logs/
+wandb/
+
+# Ignore compiled Jupyter Notebooks
+*.nbconvert.ipynb

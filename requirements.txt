@@ -1,0 +1,30 @@
+# Core Libraries
+numpy==1.23.5
+pandas==1.5.3
+matplotlib==3.6.2
+seaborn==0.12.2
+
+# Machine Learning & Deep Learning
+scikit-learn==1.2.2
+tensorflow==2.11.0
+keras==2.11.0
+
+# Time Series Forecasting
+statsmodels==0.13.5
+scipy==1.9.3
+
+# LSTMs and Neural Networks
+torch==1.13.1
+torchvision==0.14.1
+torchaudio==0.13.1
+
+# Data Preprocessing & Feature Engineering
+scipy==1.9.3
+joblib==1.2.0
+
+# Notebook Utilities
+jupyterlab==3.5.3
+notebook==6.5.3
+
+# File Handling & Optimization
+openpyxl==3.0.10

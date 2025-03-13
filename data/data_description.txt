@@ -1,0 +1,134 @@
+### **Brief Description of the 12 Variables in the Dataset**  
+
+Your dataset contains **economic and labor market indicators** commonly used in macroeconomic analysis and forecasting. Below is a **detailed description** of each variable, including **definitions, sources, calculation methods, release schedules, data corrections, and units.**  
+
+---
+
+### **1. Unemployment Rate (Percent)**  
+- **Definition:** The percentage of the total labor force that is unemployed but actively seeking work.  
+- **Calculated by:** U.S. **Bureau of Labor Statistics (BLS)** via the **Current Population Survey (CPS)**.  
+- **Release Schedule:** **Monthly**, typically on the first Friday of the month.  
+- **Data Corrections:** Initial values may be revised in later months.  
+- **Actual vs. Forecasted:** **Actual** value based on survey data.  
+- **General Range & Units:** Typically between **3% to 10%** during normal economic cycles.  
+
+---
+
+### **2. Civilian Labor Force (Thousands of People)**  
+- **Definition:** The total number of people **employed or actively seeking work**, excluding military personnel, institutionalized individuals, and retirees.  
+- **Calculated by:** **BLS** through the **CPS survey**.  
+- **Release Schedule:** **Monthly**, alongside the unemployment rate report.  
+- **Data Corrections:** Subject to minor revisions; annual benchmark updates.  
+- **Actual vs. Forecasted:** **Actual** value.  
+- **General Range & Units:** **140,000 – 170,000 (in thousands)** depending on economic conditions.  
+
+---
+
+### **3. Hires Level (Thousands of People)**  
+- **Definition:** The number of **new hires** during a given month, including rehires and recalls.  
+- **Calculated by:** **BLS** through the **Job Openings and Labor Turnover Survey (JOLTS)**.  
+- **Release Schedule:** **Monthly**, published around the first week of the following month.  
+- **Data Corrections:** Revised monthly; annual benchmark revisions.  
+- **Actual vs. Forecasted:** **Actual** value.  
+- **General Range & Units:** Typically **4,000 – 7,000 (in thousands).**  
+
+---
+
+### **4. Separations Level (Thousands of People)**  
+- **Definition:** The total number of workers who **left their jobs**, voluntarily or involuntarily, including layoffs, firings, and retirements.  
+- **Calculated by:** **BLS** via the **JOLTS survey**.  
+- **Release Schedule:** **Monthly**, about a month after the reference period.  
+- **Data Corrections:** Initial estimates are revised.  
+- **Actual vs. Forecasted:** **Actual** value.  
+- **General Range & Units:** Typically **4,000 – 7,000 (in thousands).**  
+
+---
+
+### **5. Disposable Personal Income (DPI) SAAR (Billions of Dollars)**  
+- **Definition:** The amount of **income remaining after taxes**, available for spending or saving.  
+- **Calculated by:** **U.S. Bureau of Economic Analysis (BEA)**.  
+- **Release Schedule:** **Monthly**, about **4 weeks after the reference month**.  
+- **Data Corrections:** Revised **quarterly and annually**.  
+- **Actual vs. Forecasted:** **Actual** value.  
+- **General Range & Units:** Typically **$10,000 - $20,000 billion (seasonally adjusted annual rate, SAAR).**  
+
+---
+
+### **6. Personal Consumption Expenditures (PCE) SAAR (Billions of Dollars)**  
+- **Definition:** The total **spending by consumers** on goods and services.  
+- **Calculated by:** **BEA** as part of GDP data.  
+- **Release Schedule:** **Monthly**, along with the **Personal Income report**.  
+- **Data Corrections:** **Revised monthly, quarterly, and annually.**  
+- **Actual vs. Forecasted:** **Actual** value.  
+- **General Range & Units:** Typically **$10,000 - $20,000 billion (SAAR).**  
+
+---
+
+### **7. Personal Savings SAAR (Billions of Dollars)**  
+- **Definition:** The amount of **income left after taxes and spending**, calculated as DPI minus PCE.  
+- **Calculated by:** **BEA**.  
+- **Release Schedule:** **Monthly**, along with DPI and PCE data.  
+- **Data Corrections:** **Revised periodically** based on updated economic reports.  
+- **Actual vs. Forecasted:** **Actual** value.  
+- **General Range & Units:** Varies widely, typically between **$500 - $3,000 billion (SAAR).**  
+
+---
+
+### **8. Manufacturing PMI (Purchasing Managers' Index)**  
+- **Definition:** An index that measures **manufacturing activity**, based on surveys of purchasing managers.  
+- **Calculated by:** **Institute for Supply Management (ISM)**.  
+- **Release Schedule:** **Monthly**, on the **first business day of the month**.  
+- **Data Corrections:** Not revised.  
+- **Actual vs. Forecasted:** **Actual** value.  
+- **General Range & Units:** **0-100** (Above 50 = expansion, Below 50 = contraction).  
+
+---
+
+### **9. Manufacturing Employment Index**  
+- **Definition:** A component of **PMI** that tracks employment trends in the **manufacturing sector**.  
+- **Calculated by:** **ISM** through survey responses.  
+- **Release Schedule:** **Monthly**, along with the **Manufacturing PMI**.  
+- **Data Corrections:** Not revised.  
+- **Actual vs. Forecasted:** **Actual** value.  
+- **General Range & Units:** **0-100** (Above 50 = job growth, Below 50 = job loss).  
+
+---
+
+### **10. Services Employment Index**  
+- **Definition:** A measure of employment growth in **non-manufacturing (services) industries**.  
+- **Calculated by:** **ISM**, as part of the **Services PMI survey**.  
+- **Release Schedule:** **Monthly**, 3 days after Manufacturing PMI.  
+- **Data Corrections:** Not revised.  
+- **Actual vs. Forecasted:** **Actual** value.  
+- **General Range & Units:** **0-100** (Above 50 = job growth, Below 50 = job decline).  
+
+---
+
+### **11. Advance Monthly Sales for Retail & Food Services (Millions of Dollars)**  
+- **Definition:** The total sales at **retail and food service businesses**, a leading indicator of consumer demand.  
+- **Calculated by:** **U.S. Census Bureau**.  
+- **Release Schedule:** **Monthly**, about **2 weeks after the reference month**.  
+- **Data Corrections:** Subject to **revisions in the following months**.  
+- **Actual vs. Forecasted:** **Actual** value.  
+- **General Range & Units:** **$300,000 - $800,000 million.**  
+
+---
+
+### **12. Consumer Price Index (CPI)**  
+- **Definition:** Measures **inflation** by tracking price changes in a **basket of goods and services** over time.  
+- **Calculated by:** **BLS** via **CPI survey**.  
+- **Release Schedule:** **Monthly**, about **2 weeks after the reference month**.  
+- **Data Corrections:** **Minor revisions possible**.  
+- **Actual vs. Forecasted:** **Actual** value.  
+- **General Range & Units:** **Base = 100 (1982-84); Current range 170-310.**  
+
+---
+
+### **Summary of Key Findings**
+- **Most variables are actual values, not forecasts.**
+- **Data corrections occur mostly in BEA & BLS datasets (DPI, PCE, Unemployment).**
+- **PMI and Employment Index values are NOT revised post-publication.**
+- **Release schedules vary (most are monthly, some take longer).**
+- **General ranges vary widely (percentages, thousands, millions, billions).**  
+
+Would you like any additional details or visualizations based on these variables? 🚀
